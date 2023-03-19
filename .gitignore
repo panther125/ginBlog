@@ -1,0 +1,9 @@
+.DS_Store
+/dist/
+.idea
+target/
+*.iml
+!.mvn/wrapper/maven-wrapper.jar
+*/test/
+mailserver/src/main/resources/application.yml
+node_modules/
